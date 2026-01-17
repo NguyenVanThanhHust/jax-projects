@@ -12,7 +12,14 @@ RUN pip install einops \
     orbax-checkpoint \
     orbax-export \
     jupyterlab \
-    ipywidgets
+    ipywidgets \
+    opencv-python-headless \
+    albumentations \
+    Pillow \
+    datasets \
+    tqdm \
+    transformers \
+    tiktoken
 
 # 1. Create a group and user
 # -g 1001: specific Group ID
