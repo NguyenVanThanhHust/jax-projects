@@ -1,3 +1,9 @@
+jax_tutorials/my_checkpoints/*
+jax_tutorials/TinyStories-train.txt
+jax_tutorials/runs/*
+UVA_tutorials/data/*
+UVA_tutorials/saved_models/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

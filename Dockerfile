@@ -19,8 +19,8 @@ RUN pip install einops \
     datasets \
     tqdm \
     transformers \
-    tiktoken
-
+    tiktoken \
+    seaborn 
 # 1. Create a group and user
 # -g 1001: specific Group ID
 # -u 1001: specific User ID
